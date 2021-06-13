@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "180139880582",
+    "project_id": "awaynotify",
+    "storage_bucket": "awaynotify.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180139880582:android:cd4b498586b829c3e2a107",
+        "android_client_info": {
+          "package_name": "com.lokesh.awaynotify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "180139880582-qvksq3rl98e31emn3d25pte15d4frdia.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lokesh.awaynotify",
+            "certificate_hash": "d6aa135112e0e755985accf97a4100cc9030149f"
+          }
+        },
+        {
+          "client_id": "180139880582-3khp2rs0un5c5io8363apkb8jsid7q8i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw541XsibrZV0azu59Ii8D-YpdqRUyIw8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "180139880582-3khp2rs0un5c5io8363apkb8jsid7q8i.apps.googleusercontent.com",
+
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
